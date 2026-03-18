@@ -30,6 +30,22 @@ This directory contains the IIS3DWBG1 component drivers.
 # Update history
 
 ::: {.collapse}
+<input type="checkbox" id="collapse-section2" checked aria-hidden="true">
+<label for="collapse-section2" aria-hidden="true">V1.0.1 / 18-Mar-2026</label>
+<div>
+
+## Main changes
+
+### First release
+
+- Fix xl_filt_path_on_out_get API, better switch handling
+- Change switch cases to use hex values
+- Add const qualifier for pin_int(x)_route_set APIs
+- Add title to doxygen groups
+
+##
+
+</div>
 <input type="checkbox" id="collapse-section1" aria-hidden="true">
 <label for="collapse-section1" aria-hidden="true">V1.0.0 / 12-Nov-2025</label>
 <div>
